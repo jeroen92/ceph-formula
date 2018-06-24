@@ -24,4 +24,6 @@ Suse:
     gpgcheck: 1
     gpgautoimport: True
 
+FreeBSD:
+
 # vim: ft=sls
